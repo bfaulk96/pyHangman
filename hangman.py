@@ -1,6 +1,5 @@
-import os
-import sys
 import getpass
+import pythonHangman
 
 PLAYING = True
 
@@ -90,4 +89,3 @@ while PLAYING:
         continue
     else:
         PLAYING = False
-
